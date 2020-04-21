@@ -1,3 +1,3 @@
-print('hello, world!')
+print('hello, garbos!')
 
 print('hello, galaxy!')
